@@ -1,3 +1,15 @@
 {
-    "lang":"Ceci est le fichier de lang pour les text en francais"
+    "lang":"Ceci est le fichier de lang pour les text en francais",
+    "msgBienvenue": "Qui ose encore me réveiller pendant ma sieste? Mais c'est :mention ! Dites lui vite bonjour dans le canal <#685604435983990837> que je puisse aller me recoucher.\n :mention, si tu as besoin d'aide sur Jeedom, n'hésite pas à poser ta question dans <#687036892029517834>\n PS : Bienvenue dans la communauté **Domotech**!",
+    "open_Support":"__**Votre demande consiste à :**__\n\n:one: : Aide sur un plugin officiel\n:two: : Aide sur un plugin By L'équipe du discord\n:three: : Aide sur un plugin tièrs\n:four: : Aide sur un Widget / Design\n:five: : Aide sur le Core\n:six: : Promotion ou reduction\n:seven: : Autre",
+    "getprobleme":"Merci de nous decrire votre problème.\n\nVotre message doit contenir que du texte et doit tenir dans un seul message. \nVous pouvez faire CRTL+Entrée pour aller à la ligne",
+    "getLogs":"Merci de nous upload vos fichiers de log.\nDe préférence en .txt",
+    "getImages":"Merci de nous upload vos images. \nDe préférence en .png et .jpg",
+    "openpublic":"Votre demande d'aide a été ouverte au public",
+    "nologs":"Vous n'avez pas donné de log.",
+    "noImages":"Vous n'avez pas donné d'images.",
+    "getJeedomV":"Merci de donner la version de votre jeedom \nExemple 1 : 4.0.30 \nExemple 2 : 4.1.12",
+    "PluginV":"Merci de donner la version de votre plugin (Date dans le centre de mise a jours)",
+    "pluginBydiscord":"Merci de choisir votre plugin :\n\n:one: : DiscordLink\n:two: : Pronote\n:three: : Palazzetti\n:four: : Pimp My Jeedom\n:five: : Meeko \n:six: : Freebox OS",
+    "pluginName":"Merci de nous donné le nom du plugin"
 }
