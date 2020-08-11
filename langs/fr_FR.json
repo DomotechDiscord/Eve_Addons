@@ -11,5 +11,12 @@
     "getJeedomV":"Merci de donner la version de votre jeedom \nExemple 1 : 4.0.30 \nExemple 2 : 4.1.12",
     "PluginV":"Merci de donner la version de votre plugin (Date dans le centre de mise a jours)",
     "pluginBydiscord":"Merci de choisir votre plugin :\n\n:one: : DiscordLink\n:two: : Pronote\n:three: : Palazzetti\n:four: : Pimp My Jeedom\n:five: : Meeko \n:six: : Freebox OS",
-    "pluginName":"Merci de nous donné le nom du plugin"
+    "pluginName":"Merci de nous donné le nom du plugin",
+    "MessageAide":"Pour utiliser le système, il te suffit de cliquer sur l'emoji (:white_check_mark:) disponible sous le message.\n\nQuelques conseils avant de poster :\n- les règles basiques de politesse : un bonjour, un svp et un merci. ça fait toujours plaisir :)\n- tu peux t'adresser à tout le monde et pas qu'à <@271677410817212417>. Nous sommes une communauté et il y a également des <@&688058138573668386> pour ça. Tous les <@&685611978018127880> sont également invités à aider.\n- Un système d'intégration de logs et de capture d'écran est disponible. Merci de l'utiliser pour être le plus complet possible.\n\nUn canal dédié à ta demande sera ouvert plus bas et on t'aidera au plus vite dans la mesure du possible.\n\nMerci pour ta confiance.\n\nPS : ce système a été développé par <@195159794636685313>. Merci à lui :slight_smile:",
+    "EditGetText": "Veullier donnez un text",
+    "EditSucces": "Modification effectuer avec succes : ",
+    "EditModifNOK": "Modification non effectuer",
+    "EditNoRight": ":frowning: Vous avez pas les droit",
+    "EditNoInsideHelp": ":frowning: Vous êtes pas dans une demande d'aide",
+    "MauvaisEndroit": "Commande utiliser au mauvais endroit"
 }
