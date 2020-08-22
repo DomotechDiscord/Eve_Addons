@@ -22,5 +22,5 @@
     "LogsCommand": "Bonjour, \n Merci de nous envoyer vos logs sous la forme suivante :```je suis un logs``` Pour ce faire coller votre logs, sélectionné le puis cliquer sur ***<>***, ou utilisez la touche ***(ALT GR + 7)*** pour balisé le texte.",
     "FermerCommand": "Bonjour,\n Si votre problème est résolue alors vous pouvez fermer la demande d'aide en envoyant ***.close***.\n\n Bonne journée",
     "InfoCommand": "Bonjour,\n Merci de nous donné plus de précisions \n**(une capture écran de la page \"Santé\" de Jeedom, comment est arrivé le\n problème ...)**",
-    "CacheCommand":" Bonjour, Pour Vider les caches de Jeedom, regardez moi ce magnifique Gif. : "
+    "CacheCommand": "Bonjour,\n Pour vider les caches de **Jeedom**, regardez moi ce magnifique **Gif** :"
 }
