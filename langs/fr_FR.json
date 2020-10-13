@@ -1,6 +1,7 @@
 {
     "lang":"Ceci est le fichier de lang pour les textes en français",
     "msgBienvenue": "Qui ose encore me réveiller pendant ma sieste ? Mais c'est :mention ! Dites lui vite bonjour dans le canal <#685604435983990837> que je puisse aller me recoucher.\n :mention, si tu as besoin d'aide sur Jeedom, n'hésite pas à poser ta question dans <#687036892029517834>\n PS : Bienvenue dans la communauté **Domotech**!",
+    "msgReBienvenue": "Qui ose encore me réveiller pendant ma sieste ? Mais c'est encore :mention ! Dites lui vite bonjour dans le canal <#685604435983990837> que je puisse aller me recoucher.\n PS : Bienvenue dans la communauté **Domotech**!",
     "open_Support":"__**Votre demande consiste à :**__\n\n:one: : Aide sur un plugin officiel\n:two: : Aide sur un plugin By L'équipe du Discord\n:three: : Aide sur un plugin tiers\n:four: : Aide sur un Widget / Design\n:five: : Aide sur le Core\n:six: : Promotion ou réduction\n:seven: : Autre",
     "getprobleme":"Merci de nous décrire votre problème.\n\nVotre message ne doit contenir que du texte et doit tenir dans un seul message. \nVous pouvez faire Shift+Entrée pour aller à la ligne",
     "getLogs":"Merci de donner vos **logs** de préférence en .txt \n Si vous n'en avez pas, écrivez \"Sans\"",
