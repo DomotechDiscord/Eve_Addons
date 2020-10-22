@@ -28,5 +28,14 @@
     "Modo_EveFooter" : "[Modérateur] Eve",
     "Modo_username": "Nom d'utilisateur",
     "Modo_userID": "Id de l'utilisateur",
-    "Modo_discriminator": "Discriminator"
+    "Modo_discriminator": "Discriminator",
+    "CommandeDroit": ":frowning: Vous n'avez pas les droits",
+    "CommandeNoInHelp" : ":frowning: Vous n'êtes pas dans une demande d'aide",
+    "MusicNoAttente" : "Il n'y a pas de pistes dans la liste d'attente.",
+    "MusicVide": "La liste d'attente a été vidée.",
+    "MusicPlayerVide": "Le player n'a pas de piste en cours.",
+    "MusicPauseStart": "La lecture est maintenant en pause pour relancer",
+    "MusicSkip": "La lecture est passée à la piste suivante.",
+    "MusicVolumeDe" : "Le volume est maintenant de : ",
+    "MusicVolumeError": "Le volume doit être compris entre 0 et 100"
 }
